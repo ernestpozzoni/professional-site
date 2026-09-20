@@ -1,11 +1,13 @@
 # Contact
 
-**Ernest Pozzoni, MSc Digital Transformation**  
-St Albans, UK  
+**Ernest Pozzoni, MSc Digital Transformation**\
+St Albans, UK\
 EU (Italy) and UK citizen
 
-**Email:** [ernest.pozzoni@proton.me](mailto:ernest.pozzoni@proton.me)  
+**Email:** [ernest.pozzoni@proton.me](mailto:ernest.pozzoni@proton.me)\
 **Phone:** +44 7341 933 599
+
+For professional enquiries, choose the route below that best matches your purpose
 
 ## Discuss a role or contract
 
@@ -15,11 +17,11 @@ For salaried positions, long-term contracts or substantial retained engagements,
 
 Useful context to include:
 
-- Organisation
-- Role or problem
-- Employment or contract format
-- Location / remote expectations
-- Intended timescale
+* Organisation
+* Role or problem
+* Employment or contract format
+* Location / remote expectations
+* Intended timescale
 
 ## Commission an independent project
 
@@ -29,11 +31,11 @@ For market intelligence, technology strategy, business analysis, commercial rese
 
 Useful context to include:
 
-- Decision or problem to be addressed
-- Sector and organisation
-- Available evidence or data
-- Expected output
-- Timescale
+* Decision or problem to be addressed
+* Sector and organisation
+* Available evidence or data
+* Expected output
+* Timescale
 
 ## Invite me to speak or facilitate
 
@@ -43,8 +45,8 @@ For keynote speaking, workshops, panels or facilitation:
 
 Useful context to include:
 
-- Event or organisation
-- Audience
-- Topic
-- Format
-- Date and location
+* Event or organisation
+* Audience
+* Topic
+* Format
+* Date and location
