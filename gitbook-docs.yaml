@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Ernest Pozzoni
+  structure:
+    - type: space
+      key: professional-site
+      title: Ernest Pozzoni
+      path: home
+      default: true
+      content:
+        directory: ./
