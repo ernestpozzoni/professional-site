@@ -59,8 +59,7 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * **Database querying:** SQL.
 * **Customer relationship management:** Microsoft Dynamics 365 for CRM; SuiteCRM.
 * **Cloud:** Amazon Web Services (AWS).
-* **Linux/UNIX:** Administration, networking and automation with Bash and Python.
-* **Windows:** Power user level.
+* **Operating systems:** Linux/UNIX administration, networking and automation with Bash and Python; Windows at power-user level.
 * **AI platforms:** Copilot Studio, Gemini Enterprise Agent Platform; Ollama.
 * **ERP and finance:** ERPNet; Wave Financial.
 
