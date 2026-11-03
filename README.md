@@ -6,14 +6,16 @@
 
 I help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.
 
-My work combines market intelligence, new business development and digital transformation. I am also a public and keynote speaker, and a CIISec member developing information-security governance practice through independent ISO/IEC 27001 reference cases.
+My work combines market intelligence, new business development and digital transformation. I am a public and keynote speaker on business and technology.
+
+I am a CIISec member and am developing practical knowledge of information-security governance through independent model projects based on ISO/IEC 27001.
 
 Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitbookwebsite@proton.me)
 
-### What I offer
+#### What I offer
 
 * **Market intelligence:** Market and competitor briefings, customer-segment and opportunity assessments, dashboards and recommendations to inform market-entry and market-penetration decisions.
-* **New business development:** Support for finding and qualifying opportunities, researching prospective clients and partners, developing outreach and collaboration proposals, and managing client onboarding and ongoing commercial relationships.
+* **New business development:** Client acquisition and partnership development, covering research, qualification, outreach and collaboration proposals, with support through to contracts, partnership agreements and onboarding. Customer relationship management (CRM) tools help organise ongoing relationships, engagement and follow-up.
 * **Technology strategy and digital transformation:** Technology option assessments, software-rationalisation recommendations and transformation roadmaps covering systems, processes and operating models. Particular areas include open-source software, open standards, supplier dependency, digital sovereignty and digital resilience.
 * **Speaking and facilitation:** Keynotes, presentations, workshops and training on business, technology and digital transformation, making complex issues clear and supporting informed discussion.
 
@@ -29,11 +31,12 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 
 ### My skills
 
-* **Research and analysis:** Evidence gathering, structured research, data analysis and visualisation, business-case development and financial-scenario modelling.
-* **Business and technology assessment:** Current-state and gap assessments, comparative option appraisal, process analysis and operating-model design.
-* **Stakeholder engagement:** Interviews, requirements elicitation, cross-functional discovery and stakeholder follow-up.
-* **Governance and risk:** Risk identification and escalation, supplier and technology dependencies, data control and organisational readiness.
-* **Project coordination and communication:** Planning and coordination, small-team leadership, action tracking, structured reporting, presentation and facilitation.
+* **Research and analysis:** Evidence gathering and evaluation, structured research, data analysis and visualisation, business case development and financial scenario modelling.
+* **Business and technology assessment:** Current-state and gap assessments, comparison of business and technology options, process analysis and operating model design.
+* **Stakeholder engagement:** Interviews, requirements gathering, understanding needs across teams and departments, and stakeholder follow-up.
+* **Governance and risk:** Risk identification and escalation, assessment of supplier and technology dependencies, consideration of data access and control, and organisational readiness for change.
+* **Project coordination and leadership:** Planning, activity coordination, small-team leadership and action tracking.
+* **Public speaking and communication:** Public and keynote speaking, presentations, facilitation, analytical writing and structured reporting.
 
 ### Education and training
 
