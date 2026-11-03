@@ -13,7 +13,7 @@ Citizenship: UK and EU (Italian).
 
 ### Who I am
 
-help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.
+I help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.
 
 My work combines market intelligence, new business development and digital transformation.
 
