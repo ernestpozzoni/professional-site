@@ -39,12 +39,13 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 
 ### My skills
 
-* **Research and analysis:** Evidence gathering and evaluation, structured research, data analysis and visualisation, business case development and financial scenario modelling.
+* **Research and market intelligence:** Structured market and competitor research, customer segmentation, evidence gathering and evaluation, data analysis and visualisation, business case development and financial scenario modelling.
+* **New business development and partnerships:** Prospect and partner qualification, outreach, relationship building, partnership development, proposal writing and customer relationship management (CRM).
 * **Business and technology assessment:** Current-state and gap assessments, comparison of business and technology options, process analysis and operating model design.
 * **Stakeholder engagement:** Interviews, requirements gathering, understanding needs across teams and departments, and stakeholder follow-up.
-* **Governance and risk:** Risk identification and escalation, assessment of supplier and technology dependencies, consideration of data access and control, and organisational readiness for change.
+* **Governance and risk:** Risk identification, assessment of supplier and technology dependencies, and organisational readiness for change. Developing information-security governance skills through independent ISO/IEC 27001 model projects.
 * **Project coordination and leadership:** Planning, activity coordination, small-team leadership and action tracking.
-* **Public speaking and communication:** Public and keynote speaking, presentations, facilitation, analytical writing and structured reporting.
+* **Public speaking and communication:** Public and keynote speaking, presentations, facilitation, speech evaluation, structured feedback, analytical writing and reporting.
 
 ### Education and training
 
