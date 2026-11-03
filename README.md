@@ -3,14 +3,6 @@
 **Market Intelligence & Technology Strategy Analyst** \
 **Public & Keynote Speaker**
 
-CIISec member\
-Toastmasters Area VP Public Relations & Club VP Education
-
-Based in the St Albans (England, UK) and Verona (Italy, EU).
-
-Working languages: English and Italian.\
-Citizenship: UK and EU (Italian).
-
 ### Who I am
 
 I help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.
@@ -22,9 +14,9 @@ I am developing independent model projects based on ISO/IEC 27001, focusing on i
 MSc Digital Transformation · CIISec member\
 Toastmasters Area VP Public Relations & Club VP Education
 
-**Location:** St Albans, UK; planned base in Verona, Italy\
+**Location:** St Albans (UK, England) and Verona (EU, Italy)\
 **Working languages:** English and Italian\
-**Citizenship:** British and Italian
+**Citizenship:** UK and EU (Italian)
 
 Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitbookwebsite@proton.me)
 
