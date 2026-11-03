@@ -1,14 +1,30 @@
-# Ernest Pozzoni, MSc
+# ERNEST POZZONI, MSc
 
-**Market Intelligence and Technology Strategy Analyst**
+**Market Intelligence & Technology Strategy Analyst** \
+**Public & Keynote Speaker**
+
+CIISec member\
+Toastmasters Area VP Public Relations & Club VP Education
+
+Based in the St Albans (England, UK) and Verona (Italy, EU).
+
+Working languages: English and Italian.\
+Citizenship: UK and EU (Italian).
 
 ### Who I am
 
-I help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.
+help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.
 
-My work combines market intelligence, new business development and digital transformation. I am a public and keynote speaker on business and technology.
+My work combines market intelligence, new business development and digital transformation.
 
-I am a CIISec member and am developing practical knowledge of information-security governance through independent model projects based on ISO/IEC 27001.
+I am developing independent model projects based on ISO/IEC 27001, focusing on information-security governance.
+
+MSc Digital Transformation · CIISec member\
+Toastmasters Area VP Public Relations & Club VP Education
+
+**Location:** St Albans, UK; planned base in Verona, Italy\
+**Working languages:** English and Italian\
+**Citizenship:** British and Italian
 
 Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitbookwebsite@proton.me)
 
@@ -66,6 +82,3 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * **AI platforms:** Copilot Studio, Gemini Enterprise Agent Platform; Ollama.
 * **ERP and finance:** ERPNet; Wave Financial.
 
-Based in the St Albans (England, UK) and Verona (Italy, EU).
-
-Working languages: English and Italian. UK and EU (Italian) citizen.
