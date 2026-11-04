@@ -1,7 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-
 site:
-  title: Ernest Pozzoni
+  title: Ernest Pozzoni, MSc
   structure:
     - type: space
       key: professional-site
