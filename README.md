@@ -4,7 +4,7 @@ tagTitle: Ernest Pozzoni, MSc | Market Intelligence & Technology Strategy Analys
 
 # Untitled
 
-<figure><img src=".gitbook/assets/Smiling Man in a Navy Suit.png" alt="" width="375"><figcaption></figcaption></figure>
+<h2 align="center"><img src=".gitbook/assets/ernest_pozzoni-standing.png" alt=""></h2>
 
 <h2 align="center">Ernest Pozzoni, MSc</h2>
 
