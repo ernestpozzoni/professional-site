@@ -1,3 +1,3 @@
 # Table of contents
 
-* [ERNEST POZZONI, MSc](README.md)
+* [Professional Profile](README.md)

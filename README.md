@@ -1,4 +1,8 @@
-# ERNEST POZZONI, MSc
+---
+tagTitle: Ernest Pozzoni, MSc | Market Intelligence & Technology Strategy
+---
+
+# Professional Profile
 
 **Market Intelligence & Technology Strategy Analyst** \
 **Public & Keynote Speaker**
