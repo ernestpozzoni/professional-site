@@ -1,4 +1,4 @@
 # Table of contents
 
 * [ ](README.md "Home")
-* [Professional Profile](<README (1).md>)
+* [Ernest Pozzoni, MSc](ernest-pozzoni-msc.md "Professional Profile")

@@ -2,10 +2,21 @@
 tagTitle: Professional Profile | Ernest Pozzoni, MSc
 ---
 
-# Professional Profile
+# Ernest Pozzoni, MSc
 
-**Market Intelligence & Technology Strategy Analyst** \
-**Public & Keynote Speaker**
+{% columns %}
+{% column width="75%" %}
+<p align="right"></p>
+
+<p align="right"><strong>Market Intelligence &#x26; Technology Strategy Analyst</strong> </p>
+
+<p align="right"><strong>Public &#x26; Keynote Speaker</strong> </p>
+{% endcolumn %}
+
+{% column width="25%" %}
+<figure><img src=".gitbook/assets/ernest_pozzoni-profile.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 ### Who I am
 
