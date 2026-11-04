@@ -4,15 +4,11 @@ tagTitle: Ernest Pozzoni, MSc | Market Intelligence & Technology Strategy Analys
 
 # Untitled
 
-##
+<figure><img src=".gitbook/assets/Smiling Man in a Navy Suit.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Smiling Man in a Navy Suit.png" alt=""><figcaption></figcaption></figure>
+## Ernest Pozzoni, MSc
 
-## Ernest Pozzon, MSc
-
-#### Market Intelligence & Technology Strategy Analyst
-
-#### Public & Keynote Speaker
+#### Market Intelligence & Technology Strategy Analyst Public & Keynote Speaker
 
 
 
