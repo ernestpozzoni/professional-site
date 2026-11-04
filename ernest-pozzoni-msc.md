@@ -5,7 +5,7 @@ tagTitle: Professional Profile | Ernest Pozzoni, MSc
 # Ernest Pozzoni, MSc
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="75%" %}
 <p align="right"><strong>Market Intelligence &#x26; Technology Strategy Analyst</strong> </p>
 
 <p align="right"><strong>Public &#x26; Keynote Speaker</strong> <br></p>
@@ -13,7 +13,7 @@ tagTitle: Professional Profile | Ernest Pozzoni, MSc
 <p align="right"><br>I help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.</p>
 {% endcolumn %}
 
-{% column width="33.33333333333334%" %}
+{% column width="25%" %}
 <figure><img src=".gitbook/assets/ernest_pozzoni-profile.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
