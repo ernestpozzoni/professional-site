@@ -2,7 +2,7 @@
 tagTitle: Ernest Pozzoni, MSc | Market Intelligence & Technology Strategy Analyst
 ---
 
-# Untitled
+# &#x20;
 
 <h2 align="center"><img src=".gitbook/assets/ernest_pozzoni-standing.png" alt=""></h2>
 
