@@ -22,7 +22,7 @@ tagTitle: Professional Profile | Ernest Pozzoni, MSc
 
 My work combines market intelligence, new business development and digital transformation.
 
-I am developing independent model projects based on ISO/IEC 27001, focusing on information-security governance.
+I am also developing independent model projects based on ISO/IEC 27001, focusing on information-security governance.
 
 <p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button primary">Email me</a><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button primary">Book a call</a></p>
 
