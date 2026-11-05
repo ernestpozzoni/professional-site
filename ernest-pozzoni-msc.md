@@ -110,4 +110,4 @@ Toastmasters Area VP Public Relations & Club VP Education
 
 <p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button primary">Email me</a><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button primary">Book a call</a></p>
 
-<p align="center"><a class="button secondary">View projects (underway)</a><a class="button secondary">Blog (underway)</a><a href="https://drive.google.com/drive/folders/1kLGREKgqghS9jW4H27vSxvIxrhrYNNeb?usp=sharing" class="button secondary">Download CV (PDF)</a></p>
+<p align="center"><a href="https://drive.google.com/drive/folders/1kLGREKgqghS9jW4H27vSxvIxrhrYNNeb?usp=sharing" class="button secondary">Download CV (PDF)</a><a class="button secondary">Projects (coming soon)</a><a class="button secondary">Blog (coming soon)</a></p>
