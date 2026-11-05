@@ -18,11 +18,17 @@ tagTitle: Professional Profile | Ernest Pozzoni, MSc
 {% endcolumn %}
 {% endcolumns %}
 
-### Who I am
+## Who I am
 
 My work combines market intelligence, new business development and digital transformation.
 
 I am developing independent model projects based on ISO/IEC 27001, focusing on information-security governance.
+
+<p align="center"><a class="button primary">Email me</a><a class="button primary">Book a call</a></p>
+
+{% columns %}
+{% column %}
+#### Professional details
 
 MSc Digital Transformation · CIISec member\
 Toastmasters Area VP Public Relations & Club VP Education
@@ -30,10 +36,24 @@ Toastmasters Area VP Public Relations & Club VP Education
 **Location:** St Albans (UK, England) and Verona (EU, Italy)\
 **Working languages:** English and Italian\
 **Citizenship:** UK and EU (Italian)
+{% endcolumn %}
+
+{% column %}
+#### Industries I have worked with
+
+* Satellite communications, VSAT and telecommunications.
+* Public sector, local government and public administration.
+* Banking and financial services.
+* Energy and sustainable infrastructure.
+* Maritime and logistics.
+* Defence-related satellite and drone connectivity.
+* Professional conferences and training.
+{% endcolumn %}
+{% endcolumns %}
 
 Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitbookwebsite@proton.me)
 
-#### What I offer
+## What I offer
 
 * **Market intelligence:** Market and competitor briefings, customer-segment and opportunity assessments, dashboards and recommendations to inform market-entry and market-penetration decisions.
 * **New business development:** Client acquisition and partnership development, covering research, qualification, outreach and collaboration proposals, with support through to contracts, partnership agreements and onboarding. Customer relationship management (CRM) tools help organise ongoing relationships, engagement and follow-up.
@@ -69,16 +89,6 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 {% endcolumn %}
 {% endcolumns %}
 
-### Industries I have worked with
-
-* Satellite communications, VSAT and telecommunications.
-* Public sector, local government and public administration.
-* Banking and financial services.
-* Energy and sustainable infrastructure.
-* Maritime and logistics.
-* Defence-related satellite and drone connectivity.
-* Professional conferences and training.
-
 ### Education and training
 
 {% columns %}
@@ -99,3 +109,7 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * VSAT and radio frequency (RF).
 {% endcolumn %}
 {% endcolumns %}
+
+<p align="center"><a class="button primary">Email me</a><a class="button primary">Book a call</a></p>
+
+<p align="center"><a class="button secondary">View projects (underway)</a><a class="button secondary">Blog (underway)</a><a class="button secondary">Download CV (PDF)</a></p>
