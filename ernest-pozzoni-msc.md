@@ -24,7 +24,7 @@ My work combines market intelligence, new business development and digital trans
 
 I am developing independent model projects based on ISO/IEC 27001, focusing on information-security governance.
 
-<p align="center"><a class="button primary">Email me</a><a class="button primary">Book a call</a></p>
+<p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button primary">Email me</a><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button primary">Book a call</a></p>
 
 {% columns %}
 {% column %}
@@ -50,8 +50,6 @@ Toastmasters Area VP Public Relations & Club VP Education
 * Professional conferences and training.
 {% endcolumn %}
 {% endcolumns %}
-
-Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitbookwebsite@proton.me)
 
 ## What I offer
 
@@ -102,7 +100,7 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 {% column width="50%" %}
 #### Professional training
 
-* ISO/IEC 27001:2022 Lead Implementer — in progress.
+* ISO/IEC 27001:2022 Lead Implementer — inperprogress.
 * Lean Six Sigma Yellow Belt.
 * Industrial Internet of Things (IIoT).
 * Linux systems, networking and cloud.
@@ -110,6 +108,6 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 {% endcolumn %}
 {% endcolumns %}
 
-<p align="center"><a class="button primary">Email me</a><a class="button primary">Book a call</a></p>
+<p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button primary">Email me</a><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button primary">Book a call</a></p>
 
-<p align="center"><a class="button secondary">View projects (underway)</a><a class="button secondary">Blog (underway)</a><a class="button secondary">Download CV (PDF)</a></p>
+<p align="center"><a class="button secondary">View projects (underway)</a><a class="button secondary">Blog (underway)</a><a href="https://drive.google.com/drive/folders/1kLGREKgqghS9jW4H27vSxvIxrhrYNNeb?usp=sharing" class="button secondary">Download CV (PDF)</a></p>
