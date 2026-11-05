@@ -41,23 +41,7 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * **Speaking and facilitation:** Keynotes, presentations, workshops and training on business, technology and digital transformation, making complex issues clear and supporting informed discussion.
 
 {% columns %}
-{% column %}
-### Industries I have worked with
-
-
-
-* Satellite communications, VSAT and telecommunications.
-* Public sector, local government and public administration.
-* Banking and financial services.
-* Energy and sustainable infrastructure.
-* Maritime and logistics.
-* Defence-related satellite and drone connectivity.
-* Professional conferences and training.
-
-
-{% endcolumn %}
-
-{% column %}
+{% column width="58.333333333333336%" %}
 ### My skills
 
 
@@ -70,22 +54,9 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * **Project coordination and leadership:** Planning, activity coordination, small-team leadership and action tracking.
 * **Public speaking and communication:** Public and keynote speaking, presentations, facilitation, speech evaluation, structured feedback, analytical writing and reporting.
 {% endcolumn %}
-{% endcolumns %}
 
-### Education and training
-
-#### Academic qualifications
-
-* **MSc Digital Transformation** — University of Hull, 2022–2024.
-* **BSc International Business Management** — Anglia Ruskin University, 2019–2021.
-
-#### Professional training
-
-* ISO/IEC 27001:2022 Lead Implementer — in progress.
-* Lean Six Sigma Yellow Belt.
-* Industrial Internet of Things (IIoT).
-* Linux systems, networking and cloud.
-* VSAT and radio frequency (RF).
+{% column width="41.666666666666664%" %}
+###
 
 ### Tools and platforms
 
@@ -99,4 +70,36 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * **Operating systems:** Linux/UNIX administration, networking and automation with Bash and Python; Windows at power-user level.
 * **AI platforms:** Copilot Studio, Gemini Enterprise Agent Platform; Ollama.
 * **ERP and finance:** ERPNet; Wave Financial.
+{% endcolumn %}
+{% endcolumns %}
 
+### Industries I have worked with
+
+* Satellite communications, VSAT and telecommunications.
+* Public sector, local government and public administration.
+* Banking and financial services.
+* Energy and sustainable infrastructure.
+* Maritime and logistics.
+* Defence-related satellite and drone connectivity.
+* Professional conferences and training.
+
+### Education and training
+
+{% columns %}
+{% column width="50%" %}
+#### Academic qualifications
+
+* **MSc Digital Transformation** — University of Hull, 2022–2024.
+* **BSc International Business Management** — Anglia Ruskin University, 2019–2021.
+{% endcolumn %}
+
+{% column width="50%" %}
+#### Professional training
+
+* ISO/IEC 27001:2022 Lead Implementer — in progress.
+* Lean Six Sigma Yellow Belt.
+* Industrial Internet of Things (IIoT).
+* Linux systems, networking and cloud.
+* VSAT and radio frequency (RF).
+{% endcolumn %}
+{% endcolumns %}
