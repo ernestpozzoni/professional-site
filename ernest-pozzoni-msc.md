@@ -93,14 +93,14 @@ Toastmasters Area VP Public Relations & Club VP Education
 {% column width="50%" %}
 #### Academic qualifications
 
-* **MSc Digital Transformation** — University of Hull, 2022–2024.
-* **BSc International Business Management** — Anglia Ruskin University, 2019–2021.
+* **MSc Digital Transformation** - University of Hull, 2022–2024.
+* **BSc International Business Management** - Anglia Ruskin University, 2019–2021.
 {% endcolumn %}
 
 {% column width="50%" %}
 #### Professional training
 
-* ISO/IEC 27001:2022 Lead Implementer — inperprogress.
+* ISO/IEC 27001:2022 Lead Implementer - in progress.
 * Lean Six Sigma Yellow Belt.
 * Industrial Internet of Things (IIoT).
 * Linux systems, networking and cloud.
