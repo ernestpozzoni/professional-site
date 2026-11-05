@@ -40,7 +40,11 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * **Technology strategy and digital transformation:** Technology option assessments, software-rationalisation recommendations and transformation roadmaps covering systems, processes and operating models. Particular areas include open-source software, open standards, supplier dependency, digital sovereignty and digital resilience.
 * **Speaking and facilitation:** Keynotes, presentations, workshops and training on business, technology and digital transformation, making complex issues clear and supporting informed discussion.
 
+{% columns %}
+{% column %}
 ### Industries I have worked with
+
+
 
 * Satellite communications, VSAT and telecommunications.
 * Public sector, local government and public administration.
@@ -50,7 +54,13 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * Defence-related satellite and drone connectivity.
 * Professional conferences and training.
 
+
+{% endcolumn %}
+
+{% column %}
 ### My skills
+
+
 
 * **Research and market intelligence:** Structured market and competitor research, customer segmentation, evidence gathering and evaluation, data analysis and visualisation, business case development and financial scenario modelling.
 * **New business development and partnerships:** Prospect and partner qualification, outreach, relationship building, partnership development, proposal writing and customer relationship management (CRM).
@@ -59,6 +69,8 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 * **Governance and risk:** Risk identification, assessment of supplier and technology dependencies, and organisational readiness for change. Developing information-security governance skills through independent ISO/IEC 27001 model projects.
 * **Project coordination and leadership:** Planning, activity coordination, small-team leadership and action tracking.
 * **Public speaking and communication:** Public and keynote speaking, presentations, facilitation, speech evaluation, structured feedback, analytical writing and reporting.
+{% endcolumn %}
+{% endcolumns %}
 
 ### Education and training
 
