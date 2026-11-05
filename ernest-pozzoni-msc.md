@@ -42,9 +42,7 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 
 {% columns %}
 {% column width="58.333333333333336%" %}
-### My skills
-
-
+#### My skills
 
 * **Research and market intelligence:** Structured market and competitor research, customer segmentation, evidence gathering and evaluation, data analysis and visualisation, business case development and financial scenario modelling.
 * **New business development and partnerships:** Prospect and partner qualification, outreach, relationship building, partnership development, proposal writing and customer relationship management (CRM).
@@ -56,9 +54,7 @@ Experience and Projects · Download CV · [Contact](mailto:ernest.pozzoni+gitboo
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-###
-
-### Tools and platforms
+#### Tools and platforms
 
 * **Spreadsheets:** Excel; LibreOffice Calc.
 * **Project management:** Jira; OpenProject.
