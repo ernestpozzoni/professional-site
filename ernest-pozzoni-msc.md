@@ -80,7 +80,7 @@ Toastmasters Area VP Public Relations & Club VP Education
 * **Statistical analysis:** JASP.
 * **Database querying:** SQL.
 * **Customer relationship management:** Microsoft Dynamics 365 for CRM; SuiteCRM.
-* **Cloud:** Amazon Web Services (AWS).
+* **Cloud:** Amazon Web Services (AWS), Leafcloud.
 * **Operating systems:** Linux/UNIX administration, networking and automation with Bash and Python; Windows at power-user level.
 * **AI platforms:** Copilot Studio, Gemini Enterprise Agent Platform; Ollama.
 * **ERP and finance:** ERPNet; Wave Financial.
