@@ -4,7 +4,7 @@ tagTitle: Ernest Pozzoni, MSc | Market Intelligence & Technology Strategy Analys
 
 # &#x20;
 
-<p align="center"><img src=".gitbook/assets/ernest_pozzoni-standing.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/ernest_pozzoni-sitting.webp" alt=""></p>
 
 <h2 align="center">Ernest Pozzoni, MSc</h2>
 
