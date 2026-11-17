@@ -6,7 +6,7 @@ tagTitle: Professional Profile | Ernest Pozzoni, MSc
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-<figure><img src=".gitbook/assets/ernest_pozzoni-standing.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ernest_pozzoni-standing (1).webp" alt=""><figcaption></figcaption></figure>
 
 <p align="right"></p>
 {% endcolumn %}
