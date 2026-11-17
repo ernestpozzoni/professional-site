@@ -17,8 +17,10 @@ tagTitle: Professional Profile | Ernest Pozzoni, MSc
 
 ## Who I am
 
-I combine research, stakeholder engagement and data analysis to understand organisational needs, evaluate options and identify opportunities.\
-I apply these capabilities to market intelligence, business development and digital transformation, turning findings into practical recommendations.\
+I combine research, stakeholder engagement and data analysis to understand organisational needs, evaluate options and identify opportunities.
+
+I apply these capabilities to market intelligence, business development and digital transformation, turning findings into practical recommendations.
+
 As a public and keynote speaker, I also communicate complex ideas through clear, accessible presentations. and data analysis.
 {% endcolumn %}
 {% endcolumns %}

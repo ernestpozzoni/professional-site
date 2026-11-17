@@ -12,7 +12,9 @@ tagTitle: Ernest Pozzoni, MSc | Market Intelligence & Technology Strategy Analys
 
 
 
-<p align="center">I help organisations understand markets, develop business opportunities and make informed technology choices.</p>
+<p align="center">I apply research, stakeholder engagement and data analysis to market intelligence, business development and digital transformation.</p>
+
+<p align="center">As a public speaker, I make complex ideas accessible.</p>
 
 <p align="center"><a href="ernest-pozzoni-msc.md" class="button primary">Profile</a></p>
 
