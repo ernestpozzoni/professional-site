@@ -5,25 +5,23 @@ tagTitle: Professional Profile | Ernest Pozzoni, MSc
 # Ernest Pozzoni, MSc
 
 {% columns %}
-{% column width="33.33333333333333%" %}
+{% column width="41.66666666666667%" %}
 <figure><img src=".gitbook/assets/ernest_pozzoni-standing.webp" alt=""><figcaption></figcaption></figure>
 
 <p align="right"></p>
 {% endcolumn %}
 
-{% column width="66.66666666666667%" %}
+{% column width="58.33333333333333%" %}
 **Market Intelligence & Technology Strategy Analyst** \
-**Public & Keynote Speaker** <br>
-
-I help organisations understand markets, identify business opportunities and assess technology choices through research, stakeholder engagement and data analysis.
-{% endcolumn %}
-{% endcolumns %}
+**Public & Keynote Speaker**&#x20;
 
 ## Who I am
 
-My work combines market intelligence, new business development and digital transformation.
-
-I am also developing independent model projects based on ISO/IEC 27001, focusing on information-security governance.
+I combine research, stakeholder engagement and data analysis to understand organisational needs, evaluate options and identify opportunities.\
+I apply these capabilities to market intelligence, business development and digital transformation, turning findings into practical recommendations.\
+As a public and keynote speaker, I also communicate complex ideas through clear, accessible presentations. and data analysis.
+{% endcolumn %}
+{% endcolumns %}
 
 <p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button primary">Email me</a><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button primary">Book a call</a></p>
 
@@ -81,7 +79,7 @@ Toastmasters Area VP Public Relations & Club VP Education
 * **Statistical analysis:** JASP.
 * **Database querying:** SQL.
 * **Customer relationship management:** Microsoft Dynamics 365 for CRM; SuiteCRM.
-* **Cloud:** Amazon Web Services (AWS), Leafcloud.
+* **Cloud:** Amazon Web Services (AWS), OpenStack (Horizon).
 * **Operating systems:** Linux/UNIX administration, networking and automation with Bash and Python; Windows at power-user level.
 * **AI platforms:** Copilot Studio, Gemini Enterprise Agent Platform; Ollama.
 * **ERP and finance:** ERPNet; Wave Financial.
