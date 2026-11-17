@@ -21,7 +21,7 @@ I combine research, stakeholder engagement and data analysis to understand organ
 
 I apply these capabilities to market intelligence, business development and digital transformation, turning findings into practical recommendations.
 
-As a public and keynote speaker, I also communicate complex ideas through clear, accessible presentations. and data analysis.
+As a public and keynote speaker, I also communicate complex ideas through clear, accessible presentations.
 {% endcolumn %}
 {% endcolumns %}
 
