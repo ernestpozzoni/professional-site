@@ -1,14 +1,11 @@
 ---
 tagTitle: Ernest Pozzoni, MSc | Market Intelligence & Technology Strategy Analyst
-cover: .gitbook/assets/ernest_pozzoni-sitting (2).webp
-coverY: 0
-coverHeight: 700
 layout: landing
 ---
 
 # Ernest Pozzoni, MSc
 
-<h2 align="center"></h2>
+<h2 align="center"><img src=".gitbook/assets/ernest_pozzoni-sitting (2).webp" alt="" data-size="original"></h2>
 
 Market Intelligence & Technology Strategy Analyst\
 Public & Keynote Speaker
