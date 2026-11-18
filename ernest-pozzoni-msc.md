@@ -25,8 +25,6 @@ As a public and keynote speaker, I also communicate complex ideas through clear,
 {% endcolumn %}
 {% endcolumns %}
 
-<p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button primary">Email me</a><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button primary">Book a call</a></p>
-
 {% columns %}
 {% column %}
 #### Professional details
@@ -109,6 +107,16 @@ Toastmasters Area VP Public Relations & Club VP Education
 {% endcolumn %}
 {% endcolumns %}
 
-<p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button primary">Email me</a><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button primary">Book a call</a></p>
+***
 
-<p align="center"><a href="https://260805huuhoa4wlxmku.nextcloud.hosting.zone/s/6LDNpk3ryS62md2" class="button secondary">Download CV (PDF)</a><a class="button secondary">Projects (coming soon)</a><a class="button secondary">Blog (coming soon)</a></p>
+{% columns %}
+{% column %}
+<p align="center"><a href="./">Home</a><br><a href="ernest-pozzoni-msc.md">Profile</a><br>Projects<br>Blogs<br><a href="https://260805huuhoa4wlxmku.nextcloud.hosting.zone/s/6LDNpk3ryS62md2">Download CV</a></p>
+{% endcolumn %}
+
+{% column %}
+<p align="center"><a href="https://cal.com/ernest.pozzoni/flexible-meeting" class="button secondary">Book a call</a></p>
+
+<p align="center"><a href="mailto:hello+gitbook@ernestpozzoni.com" class="button secondary">Email me</a></p>
+{% endcolumn %}
+{% endcolumns %}
