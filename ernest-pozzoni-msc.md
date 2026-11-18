@@ -65,7 +65,7 @@ Toastmasters Area VP Public Relations & Club VP Education
 * **New business development and partnerships:** Prospect and partner qualification, outreach, relationship building, partnership development, proposal writing and customer relationship management (CRM).
 * **Business and technology assessment:** Current-state and gap assessments, comparison of business and technology options, process analysis and operating model design.
 * **Stakeholder engagement:** Interviews, requirements gathering, understanding needs across teams and departments, and stakeholder follow-up.
-* **Governance and risk:** Risk identification, assessment of supplier and technology dependencies, and organisational readiness for change. Developing information-security governance skills through independent ISO/IEC 27001 model projects.
+* **Governance and risk:** Risk identification, assessment of supplier and technology dependencies, and organisational readiness for change.
 * **Project coordination and leadership:** Planning, activity coordination, small-team leadership and action tracking.
 * **Public speaking and communication:** Public and keynote speaking, presentations, facilitation, speech evaluation, structured feedback, analytical writing and reporting.
 {% endcolumn %}
@@ -99,7 +99,6 @@ Toastmasters Area VP Public Relations & Club VP Education
 {% column width="50%" %}
 #### Professional training
 
-* ISO/IEC 27001:2022 Lead Implementer - in progress.
 * Lean Six Sigma Yellow Belt.
 * Industrial Internet of Things (IIoT).
 * Linux systems, networking and cloud.
