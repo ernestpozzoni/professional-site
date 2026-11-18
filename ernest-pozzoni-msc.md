@@ -29,8 +29,9 @@ As a public and keynote speaker, I also communicate complex ideas through clear,
 {% column %}
 #### Professional details
 
-MSc Digital Transformation · CIISec member\
-Toastmasters Area VP Public Relations & Club VP Education
+MSc Digital Transformation
+
+Tastmasters Area VP Public Relations & Club VP Education
 
 **Location:** St Albans (UK, England) and Verona (EU, Italy)\
 **Working languages:** English and Italian\
@@ -41,11 +42,11 @@ Toastmasters Area VP Public Relations & Club VP Education
 #### Industries I have worked with
 
 * Satellite communications, VSAT and telecommunications.
-* Public sector, local government and public administration.
-* Banking and financial services.
+* Defence-related satellite and drone connectivity.
 * Energy and sustainable infrastructure.
 * Maritime and logistics.
-* Defence-related satellite and drone connectivity.
+* Public sector, local government and public administration.
+* Banking and financial services.
 * Professional conferences and training.
 {% endcolumn %}
 {% endcolumns %}
