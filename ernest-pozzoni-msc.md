@@ -94,7 +94,7 @@ Tastmasters Area VP Public Relations & Club VP Education
 #### Academic qualifications
 
 * **MSc Digital Transformation** - University of Hull, 2022–2024.
-* **BSc International Business Management** - Anglia Ruskin University, 2019–2021.
+* **BSc International Business Management** - AR University of Cambridge, 2019–2021.
 {% endcolumn %}
 
 {% column width="50%" %}
