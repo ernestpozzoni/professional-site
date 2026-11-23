@@ -5,7 +5,7 @@ layout: landing
 
 # Ernest Pozzoni, MSc
 
-<h2 align="center"><img src=".gitbook/assets/toastmasters.webp" alt="" data-size="original"></h2>
+<h2 align="center"><img src=".gitbook/assets/2026_11_11-toasmtasters_circle.webp" alt="" data-size="original"></h2>
 
 Market Intelligence & Technology Strategy Analyst\
 Public & Keynote Speaker
