@@ -9,7 +9,7 @@ layout: landing
 
 ## Market Intelligence & Technology Strategy Analyst Public & Keynote Speaker
 
-### I apply research, stakeholder engagement and data analysis to market intelligence, business development and digital transformation.
+### I apply research, stakeholder engagement, data analysis and hand-on technology knowledge to market intelligence, business development and digital transformation.
 
 ### As a public speaker, I make complex ideas accessible.
 
@@ -31,29 +31,29 @@ layout: landing
 {% column %}
 ### ![](.gitbook/assets/small_1.webp)
 
-### Start-ups, micro and small organisations&#x20;
+## Start-ups, micro and small organisations&#x20;
 
-* #### ICT & Technical Services
-* #### Market Intelligence & Business Development
+* ### ICT & Technical Services
+* ### Market Intelligence & Business Development
 {% endcolumn %}
 
-{% column %}
+{% column width="33.33333333333333%" %}
 ### ![](.gitbook/assets/me_1.webp)
 
-### Medium-sized and large organisations, including public-sector bodies
+## Medium-sized and large organisations, including public-sector bodies
 
-* #### Digital Transformation & Governance
-* #### Market Intelligence & Business Development
+* ### Digital Transformation & Governance
+* ### Market Intelligence & Business Development
 {% endcolumn %}
 
-{% column %}
+{% column width="33.33333333333333%" %}
 ### ![](.gitbook/assets/pb_1.webp)
 
-### Organisations, conferences and professional events
+## Organisations, conferences and professional events
 
-* #### Public & Keynote Speaking
-* #### Workshops
-* #### Facilitation
+* ## Public & Keynote Speaking
+* ## Workshops
+* ## Facilitation
 {% endcolumn %}
 {% endcolumns %}
 
