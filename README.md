@@ -53,8 +53,8 @@ layout: landing
 
 * ### Public & Keynote Speaking
 * ### Workshops & Facilitation
-* ### Event Hosting & Moderation.
-* ### Public Speaking Mentoring &  Classes
+* ### Event Hosting & Moderation
+* ### Public Speaking Mentoring & Classes
 {% endcolumn %}
 {% endcolumns %}
 
