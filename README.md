@@ -29,7 +29,7 @@ layout: landing
 
 {% columns %}
 {% column %}
-### ![](.gitbook/assets/small_1.webp)
+### ![](.gitbook/assets/hp-startup_micro_small.webp)
 
 ## Start-ups, micro and small organisations&#x20;
 
@@ -38,7 +38,7 @@ layout: landing
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-### ![](.gitbook/assets/me_1.webp)
+### <img src=".gitbook/assets/hp-mid_big_corp_public.webp" alt="" data-size="original">
 
 ## Medium-sized and large organisations, including public-sector bodies
 
@@ -47,13 +47,15 @@ layout: landing
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-### ![](.gitbook/assets/pb_1.webp)
+### ![](.gitbook/assets/hp-speaking.webp)
 
-## Organisations, conferences and professional events
+## Organisations, event organisers, individuals and groups
 
-* ## Public & Keynote Speaking
-* ## Workshops
-* ## Facilitation
+* ### Public & Keynote Speaking
+* ### Workshops
+* ### Facilitation
+* ### Public Speaking Mentoring
+* ### Public Speaking Classes
 {% endcolumn %}
 {% endcolumns %}
 
