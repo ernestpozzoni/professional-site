@@ -52,10 +52,9 @@ layout: landing
 ## Organisations, event organisers, individuals and groups
 
 * ### Public & Keynote Speaking
-* ### Workshops
-* ### Facilitation
-* ### Public Speaking Mentoring
-* ### Public Speaking Classes
+* ### Workshops & Facilitation
+* ### Event Hosting & Moderation.
+* ### Public Speaking Mentoring &  Classes
 {% endcolumn %}
 {% endcolumns %}
 
